@@ -41,7 +41,7 @@ I log notes, vocabulary, summaries, and reflections in structured markdown files
 - **Grammar:** Bunpro (N2 deck → N1 deck), +2 to +5 grammar points/day  
 - **Vocabulary:** Yomitan + Anki (15–20 words/day, mined from NHK News)  
 - **Reading:** Summarize 1 article/day in Japanese  
-- **Listening:** 1 anime episode / NHK clip daily  
+- **Listening:** Currently watching: *Slam Dunk* (Season 1)  
 - **Anki:** Maintain daily reviews  
 
 **Resources:**  
